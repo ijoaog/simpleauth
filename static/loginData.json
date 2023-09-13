@@ -1,0 +1,23 @@
+[
+    { "login": "joao.bolinha", "senha": "bolinha" },
+    { "login": "margarida.alface", "senha": "alface" },
+    { "login": "joao.daniel", "senha": "jackdaniels" },
+    { "login": "ana.maçã", "senha": "maca123" },
+    { "login": "carlos.pera", "senha": "pera456" },
+    { "login": "maria.laranja", "senha": "laranja789" },
+    { "login": "andre.uva", "senha": "uva234" },
+    { "login": "lucas.abacaxi", "senha": "abacaxi567" },
+    { "login": "laura.morango", "senha": "morango890" },
+    { "login": "pedro.amora", "senha": "amora111" },
+    { "login": "isabela.coco", "senha": "coco222" },
+    { "login": "tiago.melancia", "senha": "melancia333" },
+    { "login": "sophia.acerola", "senha": "acerola444" },
+    { "login": "gabriel.pessego", "senha": "pessego555" },
+    { "login": "beatriz.abacate", "senha": "abacate666" },
+    { "login": "matheus.jaca", "senha": "jaca777" },
+    { "login": "anaclara.manga", "senha": "manga888" },
+    { "login": "davi.uva", "senha": "uva999" },
+    { "login": "eloisa.tangerina", "senha": "tangerina000" },
+    { "login": "enzo.kiwi", "senha": "kiwi000" }
+  ]
+  
